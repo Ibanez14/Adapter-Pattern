@@ -1,0 +1,4 @@
+C:\Users\sovsh\Desktop\Testing Application\Adapter Patterns\bin\Debug\netcoreapp3.1\Adapter Patterns.exe
+C:\Users\sovsh\Desktop\Testing Application\Adapter Patterns\obj\Debug\netcoreapp3.1\Adapter Patterns.csprojAssemblyReference.cache
+C:\Users\sovsh\Desktop\Testing Application\Adapter Patterns\obj\Debug\netcoreapp3.1\Adapter Patterns.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\Adapter Patterns\obj\Debug\netcoreapp3.1\Adapter Patterns.AssemblyInfo.cs
